@@ -8,6 +8,7 @@ set tabstop=4
 set ic
 set ru
 
+
 "Cscope setting
 " [S] Find this C symbol
 nmap cs :cs find s
